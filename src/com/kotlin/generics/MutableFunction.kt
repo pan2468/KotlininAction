@@ -9,3 +9,4 @@ fun addAnswer(list: MutableList<Any>){
 //    addAnswer(strings)
 //    println(strings.maxBy { it.length })
 //}
+
