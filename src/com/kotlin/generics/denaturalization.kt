@@ -7,3 +7,5 @@ fun printContents(list: List<Any>){
 fun main() {
     printContents(listOf("abc","bac"))
 }
+
+
