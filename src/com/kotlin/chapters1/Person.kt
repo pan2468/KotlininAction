@@ -8,3 +8,4 @@ fun main(args: Array<String>) {
     val oldest = persons.maxByOrNull { it.age ?: 0 }
     println("나이가 가장 많은 사람:$oldest")
 }
+
