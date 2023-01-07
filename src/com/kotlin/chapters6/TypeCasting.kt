@@ -13,4 +13,19 @@ fun main()
         val value: Int = animal as? Int ?: 0
         println(value)
     }
+
+    val string = "1234"
+    val intCasting: Int = string.toInt()
+    println(intCasting)
+
+    val int = 1
+    val strCasting: String = int.toString()
+    println(strCasting)
+
+    val doubleConversion = 10
+    val integerCasting: Double = doubleConversion.toDouble()
+    println(integerCasting)
+
+
+
 }
